@@ -14,5 +14,5 @@
 ### 2. logisticRegression  
 主要总结了逻辑回归的常用公式。推导了逻辑回归cost function的Hessian矩阵。介绍了牛顿法的原理，并且采用牛顿法求解逻辑回归的参数。
 ### 3. generalizedLinearModels  
-* generalizedLinearModels
+* generalizedLinearModels  
 介绍了指数分布族，并推导正态分布和伯努利分布都属于指数分布族。介绍了广义线性模型的三个假设，并推导了普通最小二乘法以及逻辑回归都是广义线性模型的特例。
