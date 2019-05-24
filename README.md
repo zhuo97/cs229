@@ -18,8 +18,8 @@
 介绍了指数分布族，并推导正态分布和伯努利分布都属于指数分布族。介绍了广义线性模型的三个假设，并推导了普通最小二乘法以及逻辑回归都是广义线性模型的特例。  
 * softmaxRegression  
 推导多项分布属于指数分布族以及softmax是广义线性模型的特例，推导并实现了softmax regression，采用批量梯度下降求解softmax regression的参数。
-### 4. generativelearningAlgorithms  
-* generativelearningAlgorithms  
+### 4. generativeLearningAlgorithms  
+* generativeLearningAlgorithms  
 介绍了生成学习算法  
 * GaussianDiscriminantAnalysis  
 介绍了多元正态分布，推导了如何通过最大似然估计求解高斯判别分析的参数，讨论并推导了高斯判别分析和逻辑回归的关系。  
