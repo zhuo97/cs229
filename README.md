@@ -23,3 +23,4 @@
 介绍了生成学习算法  
 * gaussianDiscriminantAnalysis  
 介绍了多元正态分布，推导了如何通过最大似然估计求解高斯判别分析的参数，讨论并推导了高斯判别分析和逻辑回归的关系。  
+* naiveBayes  
