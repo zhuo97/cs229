@@ -1,6 +1,5 @@
 # cs229_learningNotes
-使用python完成cs229的课后作业以及记录相应的学习笔记  
-参考 https://github.com/fengdu78/Coursera-ML-AndrewNg-Notes  
+  记录cs229学习笔记并用python实现相应算法
 ## 主要内容
 ### 1. ex1-linearRegression  
 分别通过批量梯度下降法和求解正规方程组来求解线性回归的参数。并绘制了在不同学习速率下，cost function的下降情况。
