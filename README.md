@@ -1,13 +1,13 @@
-# cs229_learningNotes
+# cs229
   记录cs229学习笔记并用python实现相应算法
-## 主要内容
+## 课后作业（不更新）
 ### 1. ex1-linearRegression  
 分别通过批量梯度下降法和求解正规方程组来求解线性回归的参数。并绘制了在不同学习速率下，cost function的下降情况。
 ### 2. ex2-logisticRegression  
 主要实现了带正则化项的逻辑回归，通过批量梯度下降法求解其参数。同时进行Feature mapping,使得逻辑回归能够更好地处理线性不可分的情况。并绘制了在正则化参数lambda不同取值下，决策边界的变化情况（即过拟合与欠拟合）。
 ### 3. ex3-neuralNetwork  
 整理了ex2实现的逻辑回归函数，采用one-vs-all的方法，使用逻辑回归对手写数字进行识别。并采用已经训练好的神经网络权重，实现了神经网络的前向传播，对手写数字进行识别。
-## 补充材料
+## 学习笔记
 ### 1. linearRegression  
 推导并实现了局部加权线性回归，并选取不同的bandwidth进行拟合，可视化了不同bandwidth对局部加权线性回归的影响。
 ### 2. logisticRegression  
