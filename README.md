@@ -1,5 +1,5 @@
 # cs229
-  记录cs229学习笔记并用python实现相应算法
+  记录cs229学习笔记并用python实现相应算法（pure numpy）
 
 ## 学习笔记
 
