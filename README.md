@@ -1,7 +1,7 @@
 # cs229
   记录cs229学习笔记并用python实现相应算法（pure numpy）
 
-## 学习笔记
+## 学习笔记（更新中）
 
 ### 1. linearRegression  
 
@@ -31,7 +31,7 @@
 
 ing
 
-## 课后作业（不更新）
+## 课后作业（停止更新）
 ### 1. ex1-linearRegression  
 分别通过批量梯度下降法和求解正规方程组来求解线性回归的参数。并绘制了在不同学习速率下，cost function的下降情况。
 ### 2. ex2-logisticRegression  
