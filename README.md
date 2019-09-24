@@ -29,7 +29,17 @@
 
 ### 5. supportVectorMachine　　
 
-ing
+* svm_1
+
+  介绍了函数间隔和几何间隔，推出 svm 的 primal problem
+
+  说明了 Convex Probelm + Slater condition $\Rightarrow$ Strong duality $\Leftrightarrow$ KKT condition（$\Leftarrow$:if primal problem is convex problem）
+
+  推出了 svm 的对偶问题
+
+* svm_2
+
+  ing
 
 ## 课后作业（停止更新）
 ### 1. ex1-linearRegression  
