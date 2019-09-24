@@ -31,9 +31,9 @@
 
 * svm_1
 
-  介绍了函数间隔和几何间隔，推出 svm 的 primal problem
+  介绍了函数间隔和几何间隔，推出 svm 的原问题
 
-  说明了 Convex Probelm + Slater condition $\Rightarrow$ Strong duality $\Leftrightarrow$ KKT condition（$\Leftarrow$:if primal problem is convex problem）
+  介绍了对偶问题、强对偶和KKT条件
 
   推出了 svm 的对偶问题
 
