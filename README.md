@@ -21,25 +21,25 @@
 ### 4. generativeLearningAlgorithms  
 
 - generativeLearningAlgorithms  
-  介绍了生成学习算法  
+  介绍了生成学习算法 。 
 - gaussianDiscriminantAnalysis  
   介绍了多元正态分布，推导了如何通过最大似然估计求解高斯判别分析的参数，讨论并推导了高斯判别分析和逻辑回归的关系。  
 - naiveBayes  
-  推导并实现了朴素贝叶斯算法（基于伯努利模型）
+  推导并实现了朴素贝叶斯算法（基于伯努利模型）。
 
 ### 5. supportVectorMachine　　
 
 * svm_1
 
-  介绍了函数间隔和几何间隔，推出 svm 的原问题
+  介绍了函数间隔和几何间隔，推出 svm 的原问题。
 
-  介绍了对偶问题、强对偶和KKT条件
+  介绍了对偶问题、强对偶和KKT条件，以及强对偶和KKT条件的关系和成立条件。
 
-  推出了 svm 的对偶问题
+  推出了 svm 的对偶问题。
 
 * svm_2
 
-  ing
+  介绍了核函数以及作用，介绍了多项式核和高斯核，推导了高斯核对应一个无穷维映射，介绍了 Mercer 定理。
 
 ## 课后作业（停止更新）
 ### 1. ex1-linearRegression  
