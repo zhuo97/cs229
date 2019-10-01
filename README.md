@@ -39,13 +39,17 @@
 
 * svm_2
 
-  说明了核函数以及作用，介绍了多项式核和高斯核，推导了高斯核对应一个无穷维映射，介绍了 Mercer 定理。
+  说明了核函数以及作用，介绍了多项式核和高斯核，推导了高斯核对应一个无穷维映射，介绍了 Mercer 定理。（这部分主要来自林田轩老师的《机器学习技法》）
   
   推导了 Soft Margin SVM。
   
 * svm_3
 
-  推导 SMO 算法，采用 SMO 算法实现 SVM。（ing）
+  推导 SMO 算法。（这部分主要来自李航老师的《统计学习方法》）
+  
+* svm_4
+
+  实现 svm （这部分主要参考 https://github.com/fengdu78/lihang-code/）
 
 ## 课后作业（停止更新）
 ### 1. ex1-linearRegression  
