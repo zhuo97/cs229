@@ -49,7 +49,7 @@
   
 * svm_4
 
-  实现 svm （这部分主要参考 https://github.com/fengdu78/lihang-code/）
+  实现 svm（这部分主要参考 https://github.com/fengdu78/lihang-code/ ）
 
 ## 课后作业（停止更新）
 ### 1. ex1-linearRegression  
